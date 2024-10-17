@@ -3,8 +3,12 @@
 ## Exercises 
 The exercise are in [exercises](./exercises/exercises.md)
 
-# Solutions 
+## Solutions 
 For each exercise, the solution in in the [solutions](./solutions/) folder
+
+Watch all the solutions in this playlist
+[![Problem Solving in Python - Youtube](/thumpnails/problem-solving-in-python-cover.jpg 'Problem Solving in Python')](https://youtube.com/playlist?list=PLFfEvAoWuPztwdJqPwYNrVYXjdxPYlVDe&si=mje53QJTMOMbeC46)
+
 
 Each exercise has an accompanying youtube video
 
