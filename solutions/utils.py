@@ -16,6 +16,7 @@ def get_integer(instruction: str, min_value: int, max_value: int) -> int:
     """
     while True:
         try:
+            print()
             value = int(input(instruction))
 
             if value < min_value or value > max_value:
@@ -36,10 +37,11 @@ def get_float(instruction: str, min_value: float, max_value: float) -> float:
         max_value (float): the maximum value expected
 
     Returns:
-        int: the valid input from the user
+        float: the valid input from the user
     """
     while True:
         try:
+            print()
             value = float(input(instruction))
 
             if value < min_value or value > max_value:
